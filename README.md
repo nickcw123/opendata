@@ -21,6 +21,10 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | country | "uk" |  The country where the tables. | 
 | postcode | "S70 3JR" | The post code of where the table is. | 
 
+|tel | "01324 656234"| Gives details of the telephone of the person who looks after the table.|
+|indoor_outdoor | "Outdoor"| Gives details of weather the table tennis table is indoors or out doors.|
+|static |"Fold away" | Gives details of weather the table tennis table is fixed or fold away.|
+
 ## Changelog
 
 | Date | Changes |
